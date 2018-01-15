@@ -1,0 +1,19 @@
+Lingua::Stem::PaiceHusk
+
+  Provides the Paice/Husk word stemming algorithm.
+
+To install:
+
+  perl Makefile.PL
+  make
+  make install
+
+This module is "pure Perl" and requires no special compilation or
+dependencies.
+
+Copyright 2005-2006 Jeremiah Morris
+http://www.whpress.com/paicehusk/
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.8.0 or,
+at your option, any later version of Perl 5 you may have available.
